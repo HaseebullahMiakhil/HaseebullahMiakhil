@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Reza Hamzei
+# Hi there 👋, I'm Haseebullah Miakhil
 ## 👨‍💻 Frontend Developer
 
 I'm a passionate frontend developer with experience building responsive and user-friendly web applications. Always eager to take on new projects and challenges.
@@ -19,7 +19,7 @@ I'm a passionate frontend developer with experience building responsive and user
 
 ## 📊 Statistics of My Account
 
-![Reza-HM's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza-hm&show_icons=true&theme=tokyonight)
+![Haseebullah Miakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseebullahMiakhil&show_icons=true&theme=tokyonight)
 
 
 
@@ -65,7 +65,7 @@ I'm a passionate frontend developer with experience building responsive and user
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rezahmdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reza-hm)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaseebullahMiakhil)
 
 
 
@@ -73,7 +73,7 @@ I'm always open to new opportunities!
 
 Let me know if you have any projects you need help with.
 <!--
-**Reza-HM/Reza-HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Haseebullah Miakhil/Haseebullah Miakhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
