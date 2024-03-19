@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Haseebullah Miakhil
 ## 👨‍💻 Web Developer
 
-I'm a passionate frontend developer experienced in building responsive and user-friendly web applications. Always ready for new challenges.
+I'm a passionate web developer with a strong focus on frontend development. I have experience in building responsive and user-friendly web applications that provide an excellent user experience across different devices and platforms. I enjoy taking on new projects and challenges, constantly seeking opportunities to learn and grow my skills. With a keen eye for design and a deep understanding of web technologies, I strive to create visually appealing and highly functional websites. I'm dedicated to delivering high-quality code and ensuring that the websites I develop are optimized for performance and maintainability. Let's collaborate and bring your ideas to life!
 
 
 ## 🧰 Languages & Tools
